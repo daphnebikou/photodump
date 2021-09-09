@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+
+    font-family : Garamond;
+    margin : 5px;
+    background-color: rgba(180, 177, 170, 0.466);
+}
+h1 {
+    font-size : 5em;
+}
+ul {
+    display: flex;
+    justify-content: center;
+}
+.nav-link {
+    color : rgb(0,0,0);
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+div {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px;
+}
